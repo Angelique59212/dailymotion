@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+#dailymotion {
+    display: inline-block;
+    width: 40%;
+    margin: 1rem;
+}
+
+#inline {
+    display: inline-block;
+    width: 57%;
+}
+
+a {
+    text-decoration-line: none;
+    font-size: 1.2rem;
+    color: #DADADA;
+    padding: 5rem;
+}
+
+input {
+    width: 15%;
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.8rem;
+}
+
+i {
+    color: white;
+    padding: 0.4rem;
+}
+
+h1 {
+    font-size: 2.2rem;
+    color: white;
+    font-weight: bold;
+    margin-left: 3rem;
+}
+
+.grey {
+    color: #9D9D9D;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#first {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+main {
+    width: 100%;
+}
+
+#left {
+    display: inline-block;
+    width: 60%;
+    float: left;
+}
+
+#right {
+    display: inline-block;
+    width: 39%;
+}
+
+
+h2 {
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 0.8rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+#title {
+    width: 99%;
+}
+
+.paragraph {
+    width: 99%;
+    margin-top: 1rem;
+}
+
+.first {
+    width: 58%;
+    float: left;
+}
+
+.para-right {
+    display: inline-block;
+    width: 40%;
+    padding: 1rem;
+}
+
+#black, #black2, #black3, #black4, #black5, #black6, #black7 {
+    background-color: black;
+}
+
+span, .span {
+    color: #9D9D9D;
+    font-size: 1.1rem;
+    padding: 1rem;
+}
+
+.size {
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+#title2 {
+    display: inline-block;
+    width: 100%;
+}
+
+.size2 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding: 1.2rem;
+}
+
+#container {
+    display: inline-block;
+    width: 30%;
+    float: right;
+}
+
+.size3 {
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
