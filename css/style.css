@@ -75,6 +75,7 @@ main {
 }
 
 #right {
+    background-color: #f8f8f8;
     display: inline-block;
     width: 39%;
 }
